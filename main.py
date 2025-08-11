@@ -71,3 +71,4 @@ print("\nTraining features (first 5 rows):\n", X_train.head())
 print("\nTesting features (first 5 rows):\n", X_test.head())
 print("\nTraining target (first 5 values):\n", y_train.head())
 print("\nTesting target (first 5 values):\n", y_test.head())
+
